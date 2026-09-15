@@ -6,7 +6,7 @@
 <br/>
 
 <!-- RUNNING TEXT / TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=800&color=FF4655&center=true&vCenter=true&width=820&height=60&lines=%E2%9A%A1+S+A+T+O+S+H+I+_+H+A+J+I+M+E;Full+Stack+Developer+%7C+AI+Integrator+%F0%9F%A4%96;Omnichannel+%26+WhatsApp+Cloud+API+BSP+%F0%9F%93%B1;Building+Modern+Web+Platforms+%F0%9F%9A%80;Code+%7C+Integrate+%7C+Automate+%7C+Ship+%F0%9F%8E%AF;Gotta+Code+%27Em+All%21+%F0%9F%92%BB%E2%9A%A1)](https://github.com/SatoshiHajime)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=800&color=FF4655&center=true&vCenter=true&width=860&height=60&lines=%E2%9A%A1+S+A+T+O+S+H+I+_+H+A+J+I+M+E;100%25+Vibe+Coding+Mode+Activated+%E2%9A%A1;Full+Stack+Developer+%7C+AI+Integrator+%F0%9F%A4%96;Omnichannel+%26+WhatsApp+Cloud+API+BSP+%F0%9F%93%B1;Powered+by+Antigravity+%E2%9C%95+GPT+Astra+%F0%9F%A7%A0;Code+%7C+Integrate+%7C+Automate+%7C+Ship+%F0%9F%8E%AF;Gotta+Code+%27Em+All%21+%F0%9F%92%BB%E2%9A%A1)](https://github.com/SatoshiHajime)
 
 <br/>
 
@@ -18,6 +18,8 @@
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
 &nbsp;
 ![BSP](https://img.shields.io/badge/Meta%20BSP-WhatsApp%20Cloud%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117)
+&nbsp;
+![Vibe Coding](https://img.shields.io/badge/Workflow-100%25%20Vibe%20Coding%20⚡-FF4655?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=0d1117)
 
 </div>
 
@@ -33,8 +35,10 @@ $ whoami
   Location    : Jakarta, Indonesia 🇮🇩
   Focus       : Web Apps | ERP/CRM Systems | AI Automation | Omnichannel
   Speciality  : Meta BSP | WhatsApp Cloud API | Messaging Platform Integration
+  Workflow    : 🎧 100% Vibe Coding (Flow State + AI Symbiosis)
+  AI Engines  : Google Antigravity ✕ GPT-6 Astra
   Philosophy  : "Build Better Things. Better Code, Better Tomorrow."
-  Status      : Always learning, always shipping ⚡
+  Status      : Always in flow, always shipping ⚡
 ```
 
 <div align="center">
@@ -48,12 +52,36 @@ $ whoami
 ## ⚡ `> about --me`
 
 - 🔭 &nbsp; Sedang membangun **platform ERP/CRM, omnichannel messaging, dan tools berbasis AI**
+- 🎧 &nbsp; **100% Vibe Coder**: Seringkali ide gila jadi produk nyata dalam semalam karena *flow state* tinggi dibantu **Google Antigravity** & **GPT Astra** ⚡
 - 📱 &nbsp; Spesialisasi **Meta Developer BSP** — WhatsApp Cloud API, Instagram Messaging & Facebook Platform integration
-- 🤖 &nbsp; Passionate tentang **Integrasi AI** — dari n8n automation hingga custom AI agent workflows
+- 🤖 &nbsp; Passionate tentang **Integrasi AI** — dari n8n automation hingga autonomous AI agent workflows
 - 🌱 &nbsp; Terus explore **AI/ML, LLM integration, & workflow automation**
 - 🛠️ &nbsp; Expert di **sistem nyata**: shipment management, admin platforms, & digital agencies
 - ⚡ &nbsp; Fun fact: **Pikachu yang ngoding, saya yang di-debug-in** 😄
 - 📫 &nbsp; Reach me: **@ashento-documentation**
+
+---
+
+## 🎧 `> mode --vibe-coding`
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║               🎧  V I B E   C O D I N G   M O D E  ⚡                 ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  "Coding at the speed of thought. You bring the architecture,        ║
+║   business logic & vision — let AI amplify the speed & execution."   ║
+║                                                                      ║
+║  Flow State  : [████████████████████████████████████] 100% OPTIMAL   ║
+║  AI Engines  : Google Antigravity ✕ GPT-6 Astra                      ║
+║  Motto       : Code by Vibes, Ship with Engineering Precision 🚀     ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+> 💡 *Terkadang solusi terbaik lahir bukan dari berhari-hari pusing mikirin boilerplate, tapi lewat **Vibe Coding**: berada di flow state terbaik, berkolaborasi dengan AI cerdas (Google Antigravity & GPT Astra), dan langsung nge-ship produk ke production!* 🚀
+
+</div>
 
 ---
 
@@ -108,6 +136,8 @@ OmnichannelStack.status();
 
 | AI Stack | Use Case | Status |
 |:---:|:---:|:---:|
+| ![Google Antigravity](https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white) | Agentic Coding Assistant & IDE Pair | 🟢 Daily Driver |
+| ![GPT Astra](https://img.shields.io/badge/GPT%20Astra-10A37F?style=for-the-badge&logo=openai&logoColor=white) | Autonomous AI Agent & Deep Reasoning | 🟢 Active |
 | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) | Workflow Automation & AI Pipelines | 🟢 Active |
 | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) | LLM Integration & Chatbot | 🟢 Active |
 | ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white) | AI Assistant Integration | 🟢 Active |
@@ -117,19 +147,20 @@ OmnichannelStack.status();
 </div>
 
 ```python
-# 🤖 AI Integration Philosophy
+# 🤖 AI Integration & Vibe Coding Philosophy
 class SatoshiAI:
     def __init__(self):
         self.belief = "AI bukan pengganti developer — AI adalah senjata developer"
-        self.stack  = ["n8n", "OpenAI", "Gemini", "LangChain", "Claude"]
+        self.mode   = "🎧 100% Vibe Coding (Flow State + AI Pairing)"
+        self.stack  = ["Google Antigravity", "GPT Astra", "n8n", "OpenAI", "Gemini", "LangChain"]
         self.goal   = "Automate the boring. Build what matters."
 
     def build(self, idea):
-        return f"⚡ {idea} → Integrated AI → Shipped to Production 🚀"
+        return f"⚡ {idea} → Vibe Coded with AI → Shipped to Production 🚀"
 
 me = SatoshiAI()
 print(me.build("Your next big project"))
-# Output: ⚡ Your next big project → Integrated AI → Shipped to Production 🚀
+# Output: ⚡ Your next big project → Vibe Coded with AI → Shipped to Production 🚀
 ```
 
 ---
@@ -157,6 +188,15 @@ print(me.build("Your next big project"))
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode,postman,nginx&theme=dark" />
 </p>
+<p>
+<img src="./assets/gpt-astra.svg" width="46" height="46" alt="GPT Astra" title="GPT-6 Astra (OpenAI Agent)" />
+&nbsp;
+<img src="./assets/antigravity.svg" width="46" height="46" alt="Google Antigravity" title="Google Antigravity (DeepMind Agentic IDE)" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/GPT_Astra-Autonomous_Agent-10a37f?style=flat-square&logo=openai&logoColor=white&labelColor=0d1117" height="42" />
+&nbsp;
+<img src="https://img.shields.io/badge/Google_Antigravity-Agentic_IDE-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=0d1117" height="42" />
+</p>
 
 ### 📱 Messaging & Omnichannel
 <p>
@@ -175,7 +215,9 @@ print(me.build("Your next big project"))
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
 &nbsp;
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white&labelColor=0d1117" height="45" />
+<img src="https://img.shields.io/badge/GPT_Astra-10a37f?style=flat-square&logo=openai&logoColor=white&labelColor=0d1117" height="45" />
+&nbsp;
+<img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=0d1117" height="45" />
 &nbsp;
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white&labelColor=0d1117" height="45" />
 </p>
@@ -188,9 +230,9 @@ print(me.build("Your next big project"))
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SatoshiHajime&show_icons=true&theme=radical&border_color=ff4655&bg_color=0d1117&title_color=ff4655&icon_color=ff4655&text_color=ffffff&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=3600)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=SatoshiHajime&show_icons=true&theme=radical&border_color=ff4655&bg_color=0d1117&title_color=ff4655&icon_color=ff4655&text_color=ffffff&rank_icon=github&include_all_commits=true&count_private=true)
 &nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SatoshiHajime&layout=compact&theme=radical&border_color=ff4655&bg_color=0d1117&title_color=ff4655&text_color=ffffff&langs_count=8&cache_seconds=3600)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SatoshiHajime&layout=compact&theme=radical&border_color=ff4655&bg_color=0d1117&title_color=ff4655&text_color=ffffff&langs_count=8)
 
 <br/>
 

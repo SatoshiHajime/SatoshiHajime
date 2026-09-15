@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <defs>
+    <linearGradient id="ag-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#0b101b"/>
+    </linearGradient>
+    <linearGradient id="ag-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4285F4"/>
+      <stop offset="35%" stop-color="#9C27B0"/>
+      <stop offset="70%" stop-color="#FF4655"/>
+      <stop offset="100%" stop-color="#34A853"/>
+    </linearGradient>
+    <linearGradient id="gemini-spark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#70A6FF"/>
+      <stop offset="100%" stop-color="#D175FF"/>
+    </linearGradient>
+    <filter id="ag-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="1.2" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+
+  <!-- SkillIcon matching container -->
+  <rect width="48" height="48" rx="10" fill="url(#ag-bg)" stroke="#4285F4" stroke-width="1" stroke-opacity="0.4"/>
+
+  <!-- Antigravity Levitating Rings & Core -->
+  <g transform="translate(24, 24)" filter="url(#ag-glow)">
+    <!-- Upward zero-g energy field arcs -->
+    <path d="M-13,10 Q0,5 13,10" fill="none" stroke="#4285F4" stroke-width="1.4" opacity="0.4"/>
+    <path d="M-10,13 Q0,9 10,13" fill="none" stroke="#9C27B0" stroke-width="1.2" opacity="0.3"/>
+
+    <!-- Levitating Diamond Prism (Inverted Gravity Symbol) -->
+    <path d="M0,-14 L11,-2 L0,4 L-11,-2 Z" fill="url(#gemini-spark)"/>
+    
+    <!-- DeepMind / Google 4-color orbital rings crossing -->
+    <ellipse cx="0" cy="0" rx="15" ry="5.5" fill="none" stroke="url(#ag-grad)" stroke-width="1.5" transform="rotate(-25)"/>
+    
+    <!-- Center floating singularity core -->
+    <circle cx="0" cy="-2" r="3" fill="#ffffff"/>
+    <circle cx="0" cy="-2" r="1.5" fill="#4285F4"/>
+
+    <!-- Upward antigravity particle sparks -->
+    <circle cx="-6" cy="-8" r="0.9" fill="#70A6FF"/>
+    <circle cx="7" cy="-9" r="0.9" fill="#FF4655"/>
+    <circle cx="0" cy="-16" r="1.1" fill="#FFFFFF"/>
+  </g>
+</svg>
