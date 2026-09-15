@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <!-- BANNER -->
 <img src="./assets/banner.jpg" alt="SatoshiHajime - Build Better Things" width="100%" />
@@ -214,13 +214,15 @@ print(me.build("Your next big project"))
 
 ---
 
-## 🐍 `> mini-game --contribution-snake`
+## 🐍 `> mini-game --snake-name`
 
 <div align="center">
 
-> ⚡ *Watch the snake eat my contributions — powered by GitHub Actions!*
+> ⚡ *Snake makan kontribusi sambil nulis nama — Powered by pixel art & CSS animation!*
 
-![Snake Dark](https://raw.githubusercontent.com/SatoshiHajime/SatoshiHajime/output/github-snake-dark.svg)
+![Satoshi Hajime Snake](./assets/snake-name.svg)
+
+> 🎮 *Watch the neon green snake trace through every pixel of **SATOSHI HAJIME**...*
 
 </div>
 
@@ -250,11 +252,11 @@ print(me.build("Your next big project"))
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/satoshihajime)
 &nbsp;
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117)](https://wa.me/6200000000)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117)](https://wa.me/6285870276890)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:satoshi@ashento.dev)
 &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://instagram.com/satoshihajime)
+[![Instagram](https://img.shields.io/badge/Instagram-thereal__sandika-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://www.instagram.com/thereal_sandika/)
 
 <br/><br/>
 
