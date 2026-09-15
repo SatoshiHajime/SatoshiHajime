@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <!-- BANNER -->
 <img src="./assets/banner.jpg" alt="SatoshiHajime - Build Better Things" width="100%" />
@@ -128,17 +128,17 @@ print(me.build("Your next big project"))
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SatoshiHajime&show_icons=true&theme=radical&border_color=ff4655&bg_color=0d1117&title_color=ff4655&icon_color=ff4655&text_color=ffffff&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=SatoshiHajime&show_icons=true&theme=radical&border_color=ff4655&bg_color=0d1117&title_color=ff4655&icon_color=ff4655&text_color=ffffff&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=1800" height="180" alt="GitHub Stats" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatoshiHajime&layout=compact&theme=radical&border_color=ff4655&bg_color=0d1117&title_color=ff4655&text_color=ffffff&hide_border=false&langs_count=8" height="180" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatoshiHajime&layout=compact&theme=radical&border_color=ff4655&bg_color=0d1117&title_color=ff4655&text_color=ffffff&hide_border=false&langs_count=8&cache_seconds=1800" height="180" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SatoshiHajime&theme=radical&border=ff4655&background=0d1117&stroke=ff4655&ring=ff4655&fire=ff4655&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff4655&sideLabels=999999&dates=888888" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=SatoshiHajime&theme=radical&border=ff4655&background=0d1117&stroke=ff4655&ring=ff4655&fire=ff4655&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff4655&sideLabels=999999&dates=888888&hide_total_contributions=false" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SatoshiHajime&bg_color=0d1117&color=ff4655&line=ff4655&point=ffffff&area=true&hide_border=false&border_color=ff4655&custom_title=SatoshiHajime%20Contribution%20Graph" width="98%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SatoshiHajime&bg_color=0d1117&color=ff4655&line=ff4655&point=ffffff&area=true&hide_border=false&border_color=ff4655&title_color=ff4655&custom_title=SatoshiHajime%20%E2%80%94%20Contribution%20Graph" width="98%" alt="Activity Graph" />
 
 </div>
 
@@ -148,7 +148,7 @@ print(me.build("Your next big project"))
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SatoshiHajime&theme=radical&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=7" width="100%" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=SatoshiHajime&theme=radical&no-frame=false&no-bg=true&margin-w=8&margin-h=8&column=6" width="100%" alt="GitHub Trophies" />
 
 </div>
 
