@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <!-- BANNER -->
 <img src="./assets/banner.jpg" alt="SatoshiHajime - Build Better Things" width="100%" />
@@ -6,7 +6,7 @@
 <br/>
 
 <!-- RUNNING TEXT / TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=800&color=FF4655&center=true&vCenter=true&width=800&height=55&lines=%E2%9A%A1+S+A+T+O+S+H+I+_+H+A+J+I+M+E;Full+Stack+Developer+%7C+AI+Integrator+%F0%9F%A4%96;Building+Modern+Web+Platforms+%F0%9F%9A%80;Gotta+Code+%27Em+All%21+%F0%9F%92%BB%E2%9A%A1;Code+%7C+Integrate+%7C+Automate+%7C+Ship+%F0%9F%8E%AF)](https://github.com/SatoshiHajime)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=800&color=FF4655&center=true&vCenter=true&width=820&height=60&lines=%E2%9A%A1+S+A+T+O+S+H+I+_+H+A+J+I+M+E;Full+Stack+Developer+%7C+AI+Integrator+%F0%9F%A4%96;Omnichannel+%26+WhatsApp+Cloud+API+BSP+%F0%9F%93%B1;Building+Modern+Web+Platforms+%F0%9F%9A%80;Code+%7C+Integrate+%7C+Automate+%7C+Ship+%F0%9F%8E%AF;Gotta+Code+%27Em+All%21+%F0%9F%92%BB%E2%9A%A1)](https://github.com/SatoshiHajime)
 
 <br/>
 
@@ -16,6 +16,8 @@
 ![Followers](https://img.shields.io/github/followers/SatoshiHajime?label=Followers&style=for-the-badge&color=ff4655&labelColor=0d1117)
 &nbsp;
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+&nbsp;
+![BSP](https://img.shields.io/badge/Meta%20BSP-WhatsApp%20Cloud%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117)
 
 </div>
 
@@ -29,14 +31,15 @@ $ whoami
   Name        : Satoshi Hajime
   Role        : Full Stack Developer & AI Integrator
   Location    : Jakarta, Indonesia 🇮🇩
-  Focus       : Web Apps | ERP/CRM Systems | AI Automation
+  Focus       : Web Apps | ERP/CRM Systems | AI Automation | Omnichannel
+  Speciality  : Meta BSP | WhatsApp Cloud API | Messaging Platform Integration
   Philosophy  : "Build Better Things. Better Code, Better Tomorrow."
   Status      : Always learning, always shipping ⚡
 ```
 
 <div align="center">
 
-> 💡 *Turning ideas into real solutions — Building scalable web apps, integrating systems, and exploring the power of AI and automation.*
+> 💡 *Turning ideas into real solutions — Building scalable web apps, omnichannel platforms, integrating AI systems, and shipping products that matter.*
 
 </div>
 
@@ -44,12 +47,58 @@ $ whoami
 
 ## ⚡ `> about --me`
 
-- 🔭 &nbsp; Sedang membangun **platform ERP/CRM, sistem manajemen, dan tools berbasis AI**
+- 🔭 &nbsp; Sedang membangun **platform ERP/CRM, omnichannel messaging, dan tools berbasis AI**
+- 📱 &nbsp; Spesialisasi **Meta Developer BSP** — WhatsApp Cloud API, Instagram Messaging & Facebook Platform integration
 - 🤖 &nbsp; Passionate tentang **Integrasi AI** — dari n8n automation hingga custom AI agent workflows
 - 🌱 &nbsp; Terus explore **AI/ML, LLM integration, & workflow automation**
-- 🛠️ &nbsp; Spesialisasi di **sistem nyata** seperti shipment management, admin platforms, & digital agencies
+- 🛠️ &nbsp; Expert di **sistem nyata**: shipment management, admin platforms, & digital agencies
 - ⚡ &nbsp; Fun fact: **Pikachu yang ngoding, saya yang di-debug-in** 😄
 - 📫 &nbsp; Reach me: **@ashento-documentation**
+
+---
+
+## 📱 `> meta --developer & omnichannel`
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║          META DEVELOPER  ·  BSP CERTIFIED  ·  OMNICHANNEL   ║
+╠══════════════════════════════════════════════════════════════╣
+║  > Connecting businesses to billions of users via Meta       ║
+║  > WhatsApp Cloud API · Instagram · Messenger · Threads      ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+| Platform | Capability | Status |
+|:---:|:---:|:---:|
+| ![WhatsApp](https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) | BSP Integration, Broadcast, Chatbot | 🟢 Production |
+| ![Instagram](https://img.shields.io/badge/Instagram_Messaging_API-E4405F?style=for-the-badge&logo=instagram&logoColor=white) | DM Automation, Story Reply | 🟢 Active |
+| ![Messenger](https://img.shields.io/badge/Meta_Messenger-0084FF?style=for-the-badge&logo=messenger&logoColor=white) | Chatbot & Customer Automation | 🟢 Active |
+| ![Meta](https://img.shields.io/badge/Meta_Business_API-0866FF?style=for-the-badge&logo=meta&logoColor=white) | Graph API, Webhooks, Lead Ads | 🟢 Active |
+| ![n8n](https://img.shields.io/badge/n8n_Omnichannel-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) | Multi-platform Automation Pipeline | 🟢 Active |
+
+</div>
+
+```javascript
+// 📱 Omnichannel Architecture
+const OmnichannelStack = {
+  bsp_partner   : "Meta Business Solution Provider",
+  channels      : ["WhatsApp", "Instagram", "Messenger", "Threads"],
+  capabilities  : ["Cloud API", "Webhooks", "Broadcast", "AI Chatbot", "CRM Sync"],
+  use_cases     : [
+    "Customer Support Automation 🤖",
+    "Marketing Broadcast Campaigns 📣",
+    "AI-powered Sales Assistant 💼",
+    "Order Tracking via Chat 📦",
+    "Lead Nurturing Pipeline 🎯",
+  ],
+  status: () => console.log("⚡ All channels connected. Ready to serve millions.")
+};
+
+OmnichannelStack.status();
+// ⚡ All channels connected. Ready to serve millions.
+```
 
 ---
 
@@ -72,8 +121,8 @@ $ whoami
 class SatoshiAI:
     def __init__(self):
         self.belief = "AI bukan pengganti developer — AI adalah senjata developer"
-        self.stack   = ["n8n", "OpenAI", "Gemini", "LangChain", "Claude"]
-        self.goal    = "Automate the boring. Build what matters."
+        self.stack  = ["n8n", "OpenAI", "Gemini", "LangChain", "Claude"]
+        self.goal   = "Automate the boring. Build what matters."
 
     def build(self, idea):
         return f"⚡ {idea} → Integrated AI → Shipped to Production 🚀"
@@ -109,11 +158,22 @@ print(me.build("Your next big project"))
 <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode,postman,nginx&theme=dark" />
 </p>
 
+### 📱 Messaging & Omnichannel
+<p>
+<img src="https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?style=flat-square&logo=whatsapp&logoColor=white&labelColor=0d1117" height="40" />
+&nbsp;
+<img src="https://img.shields.io/badge/Meta_Graph_API-0866FF?style=flat-square&logo=meta&logoColor=white&labelColor=0d1117" height="40" />
+&nbsp;
+<img src="https://img.shields.io/badge/Instagram_API-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=0d1117" height="40" />
+&nbsp;
+<img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white&labelColor=0d1117" height="40" />
+&nbsp;
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white&labelColor=0d1117" height="40" />
+</p>
+
 ### 🤖 AI & Automation
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
-&nbsp;
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white&labelColor=0d1117" height="45" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
 &nbsp;
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white&labelColor=0d1117" height="45" />
 &nbsp;
@@ -128,17 +188,17 @@ print(me.build("Your next big project"))
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SatoshiHajime&show_icons=true&theme=radical&border_color=ff4655&bg_color=0d1117&title_color=ff4655&icon_color=ff4655&text_color=ffffff&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=1800" height="180" alt="GitHub Stats" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SatoshiHajime&show_icons=true&theme=radical&border_color=ff4655&bg_color=0d1117&title_color=ff4655&icon_color=ff4655&text_color=ffffff&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=3600)
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatoshiHajime&layout=compact&theme=radical&border_color=ff4655&bg_color=0d1117&title_color=ff4655&text_color=ffffff&hide_border=false&langs_count=8&cache_seconds=1800" height="180" alt="Top Languages" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SatoshiHajime&layout=compact&theme=radical&border_color=ff4655&bg_color=0d1117&title_color=ff4655&text_color=ffffff&langs_count=8&cache_seconds=3600)
 
-<br/><br/>
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=SatoshiHajime&theme=radical&border=ff4655&background=0d1117&stroke=ff4655&ring=ff4655&fire=ff4655&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff4655&sideLabels=999999&dates=888888&hide_total_contributions=false" alt="GitHub Streak" />
+![GitHub Streak](https://streak-stats.demolab.com?user=SatoshiHajime&theme=radical&border=ff4655&background=0d1117&stroke=ff4655&ring=ff4655&fire=ff4655&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff4655&sideLabels=999999&dates=888888)
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SatoshiHajime&bg_color=0d1117&color=ff4655&line=ff4655&point=ffffff&area=true&hide_border=false&border_color=ff4655&title_color=ff4655&custom_title=SatoshiHajime%20%E2%80%94%20Contribution%20Graph" width="98%" alt="Activity Graph" />
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SatoshiHajime&bg_color=0d1117&color=ff4655&line=ff4655&point=ffffff&area=true&hide_border=false&border_color=ff4655&title_color=ff4655&custom_title=SatoshiHajime%20—%20Contribution%20Graph)
 
 </div>
 
@@ -148,7 +208,19 @@ print(me.build("Your next big project"))
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SatoshiHajime&theme=radical&no-frame=false&no-bg=true&margin-w=8&margin-h=8&column=6" width="100%" alt="GitHub Trophies" />
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SatoshiHajime&theme=radical&no-frame=false&no-bg=true&margin-w=8&margin-h=8&column=6)
+
+</div>
+
+---
+
+## 🐍 `> mini-game --contribution-snake`
+
+<div align="center">
+
+> ⚡ *Watch the snake eat my contributions — powered by GitHub Actions!*
+
+![Snake Dark](https://raw.githubusercontent.com/SatoshiHajime/SatoshiHajime/output/github-snake-dark.svg)
 
 </div>
 
@@ -161,10 +233,10 @@ print(me.build("Your next big project"))
 | Project | Description | Stack | Status |
 |:---|:---|:---|:---:|
 | 🚢 **Shipyard ERP** | Platform manajemen logistik & shipment | Laravel, Vue, MySQL | 🟢 Live |
-| 🤖 **Jadi Admin** | AI-powered CRM + Admin Remote platform | Next.js, Node.js, AI | 🔵 In Dev |
+| 🤖 **Jadi Admin** | AI-powered CRM + Admin Remote + Omnichannel | Next.js, Node.js, WhatsApp API | 🔵 In Dev |
 | 📦 **AssetHub** | Sistem manajemen aset digital & dokumentasi | React, Firebase | 🟡 Beta |
 | 🖨️ **Printflow** | Manajemen produksi & percetakan | Laravel, Vue, MySQL | 🟢 Live |
-| 📊 **SAN CRM** | Agency management platform | Next.js, MongoDB | 🔵 In Dev |
+| 📊 **SAN CRM** | Agency management + Omnichannel messaging | Next.js, MongoDB, Meta API | 🔵 In Dev |
 
 </div>
 
@@ -178,13 +250,15 @@ print(me.build("Your next big project"))
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/satoshihajime)
 &nbsp;
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117)](https://wa.me/6200000000)
+&nbsp;
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:satoshi@ashento.dev)
 &nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://instagram.com/satoshihajime)
 
 <br/><br/>
 
-[![Footer Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=500&color=FF4655&center=true&vCenter=true&width=600&height=40&lines=%E2%9A%A1+Better+Code.+Better+Tomorrow.+%E2%9A%A1;%F0%9F%8E%AF+Open+to+new+opportunities%21+%F0%9F%8E%AF;%F0%9F%A4%96+Let%27s+build+something+amazing+with+AI%21+%F0%9F%A4%96)](https://github.com/SatoshiHajime)
+[![Footer Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=500&color=FF4655&center=true&vCenter=true&width=700&height=40&lines=%E2%9A%A1+Better+Code.+Better+Tomorrow.+%E2%9A%A1;%F0%9F%8E%AF+Open+to+new+opportunities%21;%F0%9F%A4%96+Let%27s+build+something+amazing+with+AI%21;%F0%9F%93%B1+WhatsApp+Cloud+API+%7C+Meta+BSP+Certified)](https://github.com/SatoshiHajime)
 
 </div>
 
