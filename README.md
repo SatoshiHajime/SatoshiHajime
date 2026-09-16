@@ -240,7 +240,7 @@ print(me.build("Your next big project"))
 
 <br/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SatoshiHajime&bg_color=0d1117&color=ff4655&line=ff4655&point=ffffff&area=true&hide_border=false&border_color=ff4655&title_color=ff4655&custom_title=SatoshiHajime%20—%20Contribution%20Graph)
+![Activity Graph](https://activity-graph.vercel.app/graph?username=SatoshiHajime&bg_color=0d1117&color=ff4655&line=ff4655&point=ffffff&area=true&hide_border=false&border_color=ff4655&title_color=ff4655&custom_title=SatoshiHajime%20—%20Contribution%20Graph)
 
 </div>
 
@@ -250,7 +250,7 @@ print(me.build("Your next big project"))
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SatoshiHajime&theme=radical&no-frame=false&no-bg=true&margin-w=8&margin-h=8&column=6)
+![GitHub Trophies](https://github-profile-trophy-unserori.vercel.app/?username=SatoshiHajime&theme=radical&no-frame=false&no-bg=true&margin-w=8&margin-h=8&column=6)
 
 </div>
 
